@@ -1,3 +1,12 @@
+# Welcome to "Twin Cities Deep Learning Study Group" on meetup.
+I am the co-orgnizer of this study group. Looking forward to see you soon.
+THis Wed(Aug 25, 2020) I am going to dive deeper to hidden layers. 
+https://www.meetup.com/Twin-Cities-Deep-Learning-Study-Group/events/272577112/
+
+Pre-meetup networking on Discord: https://discord.gg/PvMnjk5
+
+
+
 # Neural_Networks
 My learning notes on Neural Networks
 
